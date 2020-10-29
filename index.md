@@ -1,2 +1,1 @@
-# Depixen Intern Case Study
-[RMarkdown Homework](https://pjournal.github.io/metingungorr/so-so/Depixen.html)
+[Depixen Intern Case Study](https://metingungorr.github.io/so-so/Depixen.html)
